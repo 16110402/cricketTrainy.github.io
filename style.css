@@ -1,0 +1,72 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+  }
+  .top-left {
+    position: absolute;
+    top: 30px;
+    left: 51px;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .top-right {
+    position: absolute;
+    top: 30px;
+    right: 16px;
+  }
+  .con{
+        font-size: 35px;
+        font-weight: bold;
+  }
+  .con1{
+        font-size: 45px;
+        font-weight: bold;
+        padding-top: 20px;
+        padding-bottom: 20px;
+  }
+  .cont{
+      color: white;
+      list-style:none;
+  }
+  #bt1{
+      text-align: justify;
+      border-radius: 25px;
+      width: 120px;
+      color: firebrick;
+  }
+  .logo{
+    font-size:3vw;
+    font-weight: bold;
+    text-decoration: none;
+    color: firebrick;
+  }
+  #nv{
+    font-weight: bold;
+    font-size: 2.5vh;
+  }
+  .bt2{
+     background-color: firebrick;
+     border-radius: 25px;
+     margin-top: 10px;
+     width: 120px;
+  }
+.sec{
+  text-align: center;
+}  
+.card{
+   width: 100%;
+}
+.btp{
+    color: white;
+    background-color: saddlebrown;
+    width: 50px;
+}
+
+
+
